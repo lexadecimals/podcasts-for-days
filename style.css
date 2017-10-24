@@ -81,7 +81,7 @@ a:active {
 
 /* FLEXBOX NAV */
 
-#nav { background: #efefef; display:flex;  justify-content: center;  }
+nav { background: #efefef; display:flex;  justify-content: center;  }
 
 
 
